@@ -1,4 +1,9 @@
-### Hi there, me chamo Leonardo! 👋
+### Olá, meu nome é Leonardo! 👋
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando Sistemas de informação.
+- 💼 &nbsp; Trabalhando como **desenvolvedor** na <a href="http://gvdasa.com.br/">GVDasa - Inteligência Educacional</a>
+- 🌱 &nbsp; Aprendendo mais sobre **React JS**.
 
 <!--
 **leosilva-dev/leosilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
