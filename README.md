@@ -1,4 +1,4 @@
-### Olá, meu nome é Leonardo! 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Leonardo!
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudante de Sistemas de informação.
